@@ -16,6 +16,51 @@ const BestPA = [
                 net: "Applovin",
                 updatedDate: "12 - 2023"
             },
+            {
+                path: "/PATestDemo/Food_Swept_Playable_Demo_Super_Pyramid_Level.html",
+                name: "Food_Swept_Playable_Demo_Super_Pyramid_Level",
+                dev: "",
+                impression: "49.720",
+                CTR: "51.15%",
+                CVR: "8.57%",
+                IVR: "4.28%",
+                net: "Applovin",
+                updatedDate: "12 - 2023"
+            },
+
+            {
+                path: "/PATestDemo/Food_Swept_Playable_Fix_Single_Cone_Level.html",
+                name: "Food_Swept_Playable_Fix_Single_Cone_Level",
+                dev: "",
+                impression: "49.720",
+                CTR: "51.15%",
+                CVR: "8.57%",
+                IVR: "4.28%",
+                net: "Applovin",
+                updatedDate: "12 - 2023"
+            },
+            {
+                path: "/PATestDemo/Food_Swept_Playable_Single_Cone_Level_TwoGoal.html",
+                name: "Food_Swept_Playable_Single_Cone_Level_TwoGoal",
+                dev: "",
+                impression: "49.720",
+                CTR: "51.15%",
+                CVR: "8.57%",
+                IVR: "4.28%",
+                net: "Applovin",
+                updatedDate: "12 - 2023"
+            },
+            {
+                path: "/PATestDemo/Food_Swept_Playable_Fix_Maggnet_Circle.html",
+                name: "Food_Swept_Playable_Fix_Maggnet_Circle",
+                dev: "",
+                impression: "49.720",
+                CTR: "51.15%",
+                CVR: "8.57%",
+                IVR: "4.28%",
+                net: "Applovin",
+                updatedDate: "12 - 2023"
+            },
         ]
     },
 
