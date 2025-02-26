@@ -6,6 +6,17 @@ const BestPA = [
         timeline: "List:",
         data: [
             {
+                path: "/PATestDemo/SCJ_V1_02_demo.html",
+                name: "SCJ_V1_02_demo",
+                dev: "",
+                impression: "49.720",
+                CTR: "51.15%",
+                CVR: "8.57%",
+                IVR: "4.28%",
+                net: "Applovin",
+                updatedDate: "12 - 2023"
+            },
+            {
                 path: "/PATestDemo/FS_PA_Level_Double_Cone.html",
                 name: "FS_PA_Level_Double_Cone",
                 dev: "",
