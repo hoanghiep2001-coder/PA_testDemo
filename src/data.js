@@ -28,8 +28,8 @@ const BestPA = [
                 updatedDate: "12 - 2023"
             },
             {
-                path: "/PATestDemo/SCJ_V1_02_demo.html",
-                name: "SCJ_V1_02_demo",
+                path: "/PATestDemo/SCJ_V1_02_Fix.html",
+                name: "SCJ_V1_02_Fix",
                 dev: "",
                 impression: "49.720",
                 CTR: "51.15%",
