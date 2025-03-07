@@ -17,8 +17,8 @@ const BestPA = [
                 updatedDate: "12 - 2023"
             },
             {
-                path: "/PATestDemo/index_unity.html",
-                name: "index_unity",
+                path: "/PATestDemo/SCJ_Playable_Cocos_V1_02_Fix.html",
+                name: "SCJ_Playable_Cocos_V1_02_Fix",
                 dev: "",
                 impression: "49.720",
                 CTR: "51.15%",
@@ -28,8 +28,8 @@ const BestPA = [
                 updatedDate: "12 - 2023"
             },
             {
-                path: "/PATestDemo/SCJ_V1_02_Fix.html",
-                name: "SCJ_V1_02_Fix",
+                path: "/PATestDemo/SCJ_Playable_Cocos_V2_01.html",
+                name: "SCJ_Playable_Cocos_V2_01",
                 dev: "",
                 impression: "49.720",
                 CTR: "51.15%",
@@ -38,6 +38,7 @@ const BestPA = [
                 net: "Applovin",
                 updatedDate: "12 - 2023"
             },
+
             {
                 path: "/PATestDemo/FS_PA_Level_Double_Cone.html",
                 name: "FS_PA_Level_Double_Cone",
