@@ -6,6 +6,17 @@ const BestPA = [
         timeline: "List:",
         data: [
             {
+                path: "/PATestDemo/FS_DoubleCone_FixCameraFOV.html",
+                name: "FS_DoubleCone_FixCameraFOV",
+                dev: "",
+                impression: "49.720",
+                CTR: "51.15%",
+                CVR: "8.57%",
+                IVR: "4.28%",
+                net: "Applovin",
+                updatedDate: "12 - 2023"
+            },
+            {
                 path: "/PATestDemo/Hole_Idea_Optimized.html",
                 name: "Hole_Idea_Optimized",
                 dev: "",
