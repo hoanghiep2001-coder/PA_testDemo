@@ -4,6 +4,11 @@ const BestPA = [
         timeline: "List:",
         data: [
             {
+                path: "/PATestDemo/SCJ_Playable_V4_01.html",
+                name: "SCJ_Playable_V4_01",
+                dev: "",
+            },
+            {
                 path: "/PATestDemo/FH_V14_Level_Valentine_2.html",
                 name: "FH_V14_Level_Valentine_2",
                 dev: "",
